@@ -1,8 +1,8 @@
 {
   "name": "Julio Cezar",
   "photo": "assets/img/personal-photo.png",
-  "job": "Andre TG Corretor de Imóveis",
-  "location": "Itapema - SC",
+  "job": "Andre TG Corretor de Imóveis - www.andretgcorretor.com.br",
+  "location": "Meia Praia, Itapema - SC",
   "phone": "(47) 99252-7514",
   "email": "juliocsalves@gmail.com",
   "skills": {
@@ -42,35 +42,45 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/juliocsalves/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
+    },
+    {
+      "name": "Protótipo de front-end de e-commerce usando HTML, CSS e Javascript",
+      "url": "https://github.com/juliocsalves/ecommerce",
+      "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "ProgramadorIII - Benner Sistemas",
+      "name": "Programador III - Benner Sistemas",
       "period": "2011 - 2011",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Atuei desenvolvendo o backoffice do sistema Benner Turismo, periodo em que tive uma grande experiencia profissional."
     },
     {
       "name": "Prefeitura de Curitibanos - SC",
       "period": "2001 - 2016",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação do municipio."
+      "description": "Trabalhei como agente administrativo nas secretarias de Obras, de Administração e também na secretaria de Assistencia Social"
     },
     {
       "name": "Professor de Lab. de Informática",
       "period": "2018-2019",
-      "description": "Prefeitura Municipal de Baln. Camboriú"
+      "description": "Atuei como professor na rede pública de ensino na Prefeitura Municipal de Baln. Camboriú."
     },
     {
       "name": "Corretor de Imóveis",
       "period": "2021 - Atual",
-      "description": "Realizando o seu sonho do imóvel na praia. Eu tenho seu imóvel"
+      "description": "Realizando o seu sonho do imóvel na praia. Eu tenho seu imóvel!"
+    },
+    {
+      "name": "Sócio-proprietário na empresa Ponto.Com Informática",
+      "period": "2010 - 2011",
+      "description": "Manutenção e suprimentos de informática."
     }
   ]
 }
