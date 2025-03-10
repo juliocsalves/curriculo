@@ -14,7 +14,7 @@ function updateProfileInfo(profileData) {
     location.innerText = profileData.location
 
     const about = document.getElementById('profile.about')
-    about.innerText = profileData.about
+    about.innerHTML = profileData.about
 
     const phone = document.getElementById('profile.phone')
     phone.innerText = profileData.phone

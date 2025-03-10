@@ -4,8 +4,10 @@
     margin: 0;
     padding: 0;
     list-style: none;    
+    text-indent: 2em;
 }
 
 .about-me {
     text-align: left;
+    text-indent: 2rem;
 }
