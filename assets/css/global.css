@@ -57,11 +57,6 @@ a:hover {
 @media only screen and (min-width: 768px) {
     .main {
         max-width: 1024px;
-        margin: 1rem;
+        margin: 1rem auto;
+        justify-content: center;
     }
-
-    .main::before,
-    .main::after {
-        width: 70vw;
-    }
-}
