@@ -1,10 +1,11 @@
 {
-  "name": "Julio Cezar S. Alves",
+  "name": "Julio Cezar da Silva Alves",
   "photo": "assets/img/personal-photo.png",
-  "job": "Corretor de Imóveis - CRECI/SC 38.349",
+  "job": "Corretor de Imóveis",
   "location": "Meia Praia, Itapema - SC",
   "phone": "(47) 99252-7514",
   "email": "juliocsalves@gmail.com",
+  "about": "Profissional com ampla experiência em tecnologia, administração pública e vendas, atuando em diferentes setores ao longo da carreira. Possuo habilidades em desenvolvimento de software, suporte administrativo, ensino e corretagem de imóveis, sempre com foco em entregar soluções eficientes e um excelente atendimento. Iniciei minha trajetória na Prefeitura de Curitibanos (2001-2016), onde atuei como agente administrativo em diversas secretarias, adquirindo conhecimento em gestão pública e processos administrativos. Em 2010, fui sócio-proprietário da Ponto.Com Informática, empresa especializada em manutenção e suprimentos de informática. Em 2011, tive a oportunidade de trabalhar como Programador III na Benner Sistemas, onde desenvolvi o backoffice do sistema Benner Turismo, experiência que aprimorou minhas habilidades em desenvolvimento backend. Na área da educação, atuei como professor de Laboratório de Informática (2018-2019) na rede pública de Balneário Camboriú, compartilhando conhecimento e auxiliando na formação de novos profissionais. Atualmente, trabalho como corretor de imóveis (desde 2021), ajudando clientes a realizarem o sonho de adquirir um imóvel na praia.",
   "skills": {
     "hardSkills": [
       {

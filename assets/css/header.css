@@ -57,7 +57,7 @@
 }
 
 .information .job::before {
-    background-image: url('../img/icons/job.svg');
+    background-image: url('../img/icons/job.svg');    
 }
 
 .information .location::before {
@@ -89,7 +89,7 @@
     .header .title {
         grid-area: title;
         text-align: start;
-        max-width: 400px;
+        max-width: 464px;
     }
 
     .header .information {

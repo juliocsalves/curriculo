@@ -5,16 +5,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portifólio Julio C. Alves</title>
-
+    <title>carregando....</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
         integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
-
     <link rel="stylesheet" href="assets/css/global.css">
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/acordeon.css">
@@ -23,6 +20,7 @@
     <link rel="stylesheet" href="assets/css/experience.css">
     <link rel="stylesheet" href="assets/css/skills.css">
     <link rel="stylesheet" href="assets/css/footer.css">
+    <link rel="stylesheet" href="assets/css/about.css">
 </head>
 
 <body>
@@ -46,6 +44,21 @@
             </div>
         </header>
 
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Sobre mim</h2>
+            </button>
+
+            <div class="content">
+                <div class="skills">
+                    <section class="about-me">
+                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet condimentum lacus. Nullam a ultricies sem. Curabitur blandit ullamcorper mauris, quis fermentum enim pretium vel. Mauris lobortis aliquam massa quis venenatis. Vestibulum at ligula non urna sagittis placerat. Sed nec pulvinar turpis. Fusce nec nisl eget ligula placerat auctor non id urna. Aliquam pharetra mollis sem. Quisque nulla ligula, volutpat sit amet neque id, elementum elementum eros. Morbi tempus enim eu neque interdum commodo. Proin pretium cursus ante, in cursus turpis luctus sit amet. Nulla facilisi. Etiam sodales ligula condimentum feugiat aliquam. Maecenas euismod est eu fringilla pulvinar. Praesent dignissim nisl velit, in vestibulum est cursus eget. Vestibulum pharetra ex et fermentum auctor."</p> -->
+                        <p id="profile.about"></p>
+                    </section> 
+                </div>
+            </div>
+        </section>
+        
         <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Skills</h2>
@@ -115,6 +128,7 @@
     <script src="assets/js/acordeon.js"></script>
     <script src="assets/js/api.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/title.js"></script>
 </body>
 
 </html>
