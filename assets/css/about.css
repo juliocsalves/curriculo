@@ -3,10 +3,9 @@
     flex-direction: column;
     margin: 0;
     padding: 0;
-    list-style: none;
-    text-align: justify;
+    list-style: none;    
 }
 
 .about-me {
-    text-align: justify;
+    text-align: left;
 }
