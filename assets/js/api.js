@@ -1,7 +1,6 @@
 async function fetchProfileData() {
-    // const url = '/data/profile.json';    
-    const url = 'https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/juliocsalves/curriculo/main/data/profile.json';
-
+    const url = '/data/profile.json';    
+    // const url = 'https://raw.githubusercontent.com/juliocsalves/curriculo/main/data/profile.json';    
     try {
         const response = await fetch(url);                
         if (!response.ok) {
