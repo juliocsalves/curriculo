@@ -14,6 +14,7 @@
     align-items: center;
     padding-right: 1rem;
     font-weight: 700;
+    border
 }
 
 .languages li::before {
@@ -25,4 +26,24 @@
     background-size: contain;
     background-image: url('../img/icons/check.svg');
     margin-right: .5rem;
+}
+
+/* media queryes */
+@media only screen and (max-width: 575px) {
+    .languages li {
+        padding-bottom: 0.8rem;
+    }
+}
+
+/* Pequeno (SM): Telão de smartphones: 576px a 768px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .portfolio li h3.github::before {
+        width: 1rem;
+        min-width: 1rem;
+    }
+
+    .portfolio li h3 {        
+        font-size: 1rem;
+        font-weight: 700;
+    }
 }
