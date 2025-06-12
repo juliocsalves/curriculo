@@ -5,8 +5,8 @@
   "location": "Meia Praia, Itapema - SC",
   "phone": "(47) 99252-7514",
   "email": "juliocsalves@gmail.com",
-  "about": "<p>Profissional com ampla experiência em tecnologia, administração pública e vendas, atuando em diversos setores. Habilidades em desenvolvimento de software, suporte administrativo, ensino e corretagem de imóveis, sempre focado em soluções eficientes e atendimento de qualidade.</p><p>Atuou na Prefeitura de Curitibanos (2001-2016) como agente administrativo, adquirindo conhecimento em gestão pública. Foi sócio-proprietário da Ponto.Com Informática (2010) e Programador III na Benner Sistemas (2011), desenvolvendo o backoffice do sistema Benner Turismo.</p><p>Na área da educação, lecionou Laboratório de Informática na rede pública de Balneário Camboriú (2018-2019). Desde 2021, atua como corretor de imóveis, auxiliando clientes na aquisição de imóveis na praia.</p>",  
-  "pcd": "Vaga PCD - Autismo nível 1",  
+  "about": "<p>Profissional com ampla experiência em tecnologia, administração pública e vendas, atuando em diversos setores. Habilidades em desenvolvimento de software, suporte administrativo, ensino e corretagem de imóveis, sempre focado em soluções eficientes e atendimento de qualidade.</p><p>Atuou na Prefeitura de Curitibanos (2001-2016) como agente administrativo, adquirindo conhecimento em gestão pública. Foi sócio-proprietário da Ponto.Com Informática (2010) e Programador III na Benner Sistemas (2011), desenvolvendo o backoffice do sistema Benner Turismo.</p><p>Na área da educação, lecionou Laboratório de Informática na rede pública de Balneário Camboriú (2018-2019). Desde 2021, atua como corretor de imóveis, auxiliando clientes na aquisição de imóveis na praia.</p>",
+  "pcd": "Vaga PCD - Autismo nível 1",
   "skills": {
     "hardSkills": [
       {
@@ -56,6 +56,12 @@
       "name": "Protótipo de blog Filhos da Anarquia usando Angular.",
       "url": "https://github.com/juliocsalves/angular-soa",
       "site": "https://juliocsalves.github.io/angular-soa/",
+      "github": true
+    },
+    {
+      "name": "Clone da loja virtual PlayStation Store usando Angular.",
+      "url": "https://github.com/juliocsalves/psn-store",
+      "site": "https://juliocsalves.github.io/psn-store/",
       "github": true
     }
   ],
