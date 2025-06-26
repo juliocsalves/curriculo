@@ -9,6 +9,7 @@ async function fetchProfileData() {
         return profileData;
     } catch (error) {
         console.error('Erro ao buscar dados:', error);
+        console.log(url);
     }
 }
 
