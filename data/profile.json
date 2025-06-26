@@ -63,6 +63,18 @@
       "url": "https://github.com/juliocsalves/psn-store",
       "site": "https://juliocsalves.github.io/psn-store/",
       "github": true
+    },
+    {
+      "name": "Pokedex v2.0 utilizando framework Angular 19 Standalone, Typescript, Html5 e CSS3.",
+      "url": "https://github.com/juliocsalves/angular-pokedex.git",
+      "site": "https://juliocsalves.github.io/angular-pokedex/",
+      "github": true
+    },
+    {
+      "name": "Naruto Shinobiverse utilizando framework Angular 19 Standalone, Typescript, Html5 e CSS3.",
+      "url": "https://github.com/juliocsalves/angular-shinobiverse.git",
+      "site": "https://juliocsalves.github.io/angular-shinobiverse/",
+      "github": true
     }
   ],
   "professionalExperience": [
