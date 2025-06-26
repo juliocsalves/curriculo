@@ -1,5 +1,5 @@
 async function fetchProfileData() {        
-    const url = '/curriculo/data/profile.json';
+    const url = './data/profile.json';
     console.log(url);
     try {
         const response = await fetch(url);                
