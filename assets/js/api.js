@@ -1,6 +1,6 @@
 async function fetchProfileData() {
-    // const url = 'https://raw.githubusercontent.com/juliocsalves/curriculo/main/data/profile.json';
-    const url = '/data/profile.json';
+    const url = 'https://raw.githubusercontent.com/juliocsalves/curriculo/main/data/profile.json';
+    // const url = '/data/profile.json';
     try {
         const response = await fetch(url);                
         if (!response.ok) {
