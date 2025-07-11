@@ -14,6 +14,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
+        "name": "TypeScript",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+      },
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
@@ -22,8 +26,16 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "SQL",
+        "logo": "https://cdn-icons-png.flaticon.com/512/3161/3161158.png"
+      },
+      {
+        "name": "NoSQL",
+        "logo": "https://abhyrama.com/wp-content/uploads/2018/01/nosqlpng.png"
       }
     ],
     "softSkills": [
