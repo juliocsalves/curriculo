@@ -30,6 +30,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
+        "name": "Maven",
+        "logo": "data/imgs/maven.png"
+      },
+      {
         "name": "SQL",
         "logo": "https://cdn-icons-png.flaticon.com/512/3161/3161158.png"
       },
