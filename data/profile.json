@@ -95,6 +95,12 @@
       "url": "https://github.com/juliocsalves/angular-shinobiverse.git",
       "site": "https://juliocsalves.github.io/angular-shinobiverse/",
       "github": true
+    },
+    {
+      "name": "Design Patterns com Java: Dos Clássicos (GoF) ao Sprint Framework",
+      "url": "https://github.com/juliocsalves/lab-padroes-spring.git",
+      "site": "",
+      "github": true
     }
   ],
   "professionalExperience": [
