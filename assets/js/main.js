@@ -69,15 +69,19 @@ function updatePortfolio(profileData) {
         portfolioElement.innerHTML = profileData.portfolio.map(project => {
             return `
                 <li>
-                    <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>                
+                    <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
                     <a href="${project.url}" target="_blank" class="link">Clique aqui para visualizar o código do projeto.</a>
-                    <a href="${project.site}" target="_blank" class="link">Ver protótipo rodando.</a>
-
-                </li>             
+                    ${
+                      project.site && project.site !== ''
+                        ? `<a href="${project.site}" target="_blank" class="link">Ver protótipo rodando.</a>`
+                        : `<a>Somente código fonte</a>`
+                    }
+                </li>
             `;
         }).join('');
     }
 }
+
 
 function updateProfessionalExperience(profileData) {
     const professionalExperienceElement = document.getElementById('profile.professionalExperience');

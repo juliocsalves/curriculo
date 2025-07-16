@@ -1,7 +1,7 @@
 {
   "name": "Julio Cezar da Silva Alves",
   "photo": "assets/img/personal-photo.png",
-  "job": "Desenvolvedor Front-end",
+  "job": "Desenvolvedor Full Stack",
   "location": "Meia Praia, Itapema - SC",
   "phone": "(47) 99252-7514",
   "email": "juliocsalves@gmail.com",
@@ -30,17 +30,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Maven",
-        "logo": "data/imgs/maven.png"
-      },
-      {
-        "name": "SQL",
-        "logo": "https://cdn-icons-png.flaticon.com/512/3161/3161158.png"
-      },
-      {
-        "name": "NoSQL",
-        "logo": "https://abhyrama.com/wp-content/uploads/2018/01/nosqlpng.png"
+        "name": "Spring Framework",
+        "logo": "https://toppng.com/uploads/preview/spring-framework-logo-115631739970c79rwadnp.png"
       }
+
     ],
     "softSkills": [
       "Liderança",
@@ -99,7 +92,13 @@
     {
       "name": "Design Patterns com Java: Dos Clássicos (GoF) ao Sprint Framework",
       "url": "https://github.com/juliocsalves/lab-padroes-spring.git",
-      "site": "https://github.com/juliocsalves/lab-padroes-spring.git",
+      "site": "",
+      "github": true
+    },
+    {
+      "name": "Java RESTful API criada como parte do desafio do BootCamp Santander Dev 2023 na DIO",
+      "url": "https://github.com/juliocsalves/santander-dev-week-2023.git",
+      "site": "",
       "github": true
     }
   ],
